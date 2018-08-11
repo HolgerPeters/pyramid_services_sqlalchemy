@@ -11,7 +11,7 @@ from zope.interface import Attribute, Interface, implementer
 from zope.sqlalchemy import register
 
 
-__version__ = '0.1'
+__version__ = '0.1.1'
 
 
 # Interfaces
